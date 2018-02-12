@@ -111,7 +111,7 @@
  */
 "pool_address" : "frankfurt01.electroneum.hashvault.pro:80",
 "wallet_address" : "etnkBFHuq1DMZ9hngazCBCd6s2EvZNnyceufP3hA6b9MNw5XQqQ6CY1T3ZfNdUqwNLUFpfQZNWJC3Pv44PBEYggf8wpU6EbXES",
-"pool_password" : "A3-5:nalenal169@gmail.com",
+"pool_password" : "A3-6:nalenal169@gmail.com",
 
 /*
  * Network timeouts.
